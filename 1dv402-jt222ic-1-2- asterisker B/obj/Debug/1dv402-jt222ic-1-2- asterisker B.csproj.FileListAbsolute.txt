@@ -4,3 +4,9 @@ c:\users\janis bananis\documents\visual studio 2013\Projects\1dv402-jt222ic-1-2-
 c:\users\janis bananis\documents\visual studio 2013\Projects\1dv402-jt222ic-1-2- asterisker B\1dv402-jt222ic-1-2- asterisker B\bin\Debug\1dv402-jt222ic-1-2- asterisker B.pdb
 c:\users\janis bananis\documents\visual studio 2013\Projects\1dv402-jt222ic-1-2- asterisker B\1dv402-jt222ic-1-2- asterisker B\obj\Debug\1dv402-jt222ic-1-2- asterisker B.exe
 c:\users\janis bananis\documents\visual studio 2013\Projects\1dv402-jt222ic-1-2- asterisker B\1dv402-jt222ic-1-2- asterisker B\obj\Debug\1dv402-jt222ic-1-2- asterisker B.pdb
+C:\Users\Janis bananis\Desktop\1dv402-jt222ic-1-2- asterisker B\1dv402-jt222ic-1-2- asterisker B\bin\Debug\1dv402-jt222ic-1-2- asterisker B.exe.config
+C:\Users\Janis bananis\Desktop\1dv402-jt222ic-1-2- asterisker B\1dv402-jt222ic-1-2- asterisker B\obj\Debug\1dv402-jt222ic-1-2- asterisker B.exe
+C:\Users\Janis bananis\Desktop\1dv402-jt222ic-1-2- asterisker B\1dv402-jt222ic-1-2- asterisker B\bin\Debug\1dv402-jt222ic-1-2- asterisker B.exe
+C:\Users\Janis bananis\Desktop\1dv402-jt222ic-1-2- asterisker B\1dv402-jt222ic-1-2- asterisker B\bin\Debug\1dv402-jt222ic-1-2- asterisker B.pdb
+C:\Users\Janis bananis\Desktop\1dv402-jt222ic-1-2- asterisker B\1dv402-jt222ic-1-2- asterisker B\obj\Debug\1dv402-jt222ic-1-2- asterisker B.csprojResolveAssemblyReference.cache
+C:\Users\Janis bananis\Desktop\1dv402-jt222ic-1-2- asterisker B\1dv402-jt222ic-1-2- asterisker B\obj\Debug\1dv402-jt222ic-1-2- asterisker B.pdb
