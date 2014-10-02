@@ -15,8 +15,8 @@ namespace _1dv402_jt222ic_1_2__asterisker_B
             {
                 byte amount;
                 Console.Write("Ange det udda antalet asterisker <max 79> i triangelns bas: ");    ///anger variabeln
-                amount = ReadOddbyte();
-                RenderTriangle(amount);
+                amount = ReadOddbyte();                                  //// förstår inte varför det fungerar så
+                RenderTriangle(amount);                                           /// refererar till en metod 
                 //amount = byte.Parse(Console.ReadLine());
                 
                 //if (amount<= 79)
@@ -27,7 +27,7 @@ namespace _1dv402_jt222ic_1_2__asterisker_B
                 if (amount > 0)
                 {
                     Console.BackgroundColor = ConsoleColor.DarkGreen;
-                    Console.WriteLine("tryck tangent för att forsätta - ESC avslutar");
+                    Console.WriteLine("tryck tangent för att forsätta - ESC avslutar");         /// avslutning av metods räkning
                     Console.ResetColor();
 
                 }
@@ -57,10 +57,10 @@ namespace _1dv402_jt222ic_1_2__asterisker_B
                 { throw new ArgumentException(); }
                 if (amount>79)
                 { throw new ArgumentException(); }
-                else
-                return amount;
+                
+                    return amount;
             }
-            catch (ArgumentException)
+            catch (ArgumentException)                    //// fångar fel från argumentationer
             {
                 Console.BackgroundColor = ConsoleColor.Red;
                 Console.WriteLine("Fel! den inmatade värden är inte ett udda heltal mellan 1 och 79.");
@@ -90,7 +90,7 @@ namespace _1dv402_jt222ic_1_2__asterisker_B
 
                }
 
-               for (int k = 1; k <= 2 * i - 1; k++)
+               for (int k = 1; k <= 2 * i - 1; k++)               //// basräkning
                {
                    Console.Write("*" + " ");
                }
